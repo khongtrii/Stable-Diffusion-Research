@@ -1,0 +1,5 @@
+https://github.com/openai/improved-diffusion.git
+
+https://github.com/zhifengkong/pytorch_diffusion_model_celebahq.git
+
+https://github.com/Stability-AI/stablediffusion.git
